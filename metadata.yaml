@@ -1,0 +1,38 @@
+_repo: Satire-in-the-Victorian-novel_67581
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Russell, Frances Theresa
+    aliases:
+    - Russell, Frances Theresa Peet
+    - Russell, Theresa
+    birthdate: 1873
+    deathdate: 1936
+    gutenberg_agent_id: '54343'
+    url: http://www.gutenberg.org/2009/agents/54343
+    wikipedia: https://en.wikipedia.org/wiki/Frances_Theresa_Peet_Russell
+description: ''
+gutenberg_issued: '2022-03-07'
+identifiers:
+  gutenberg: '67581'
+  lccn: '20002031'
+language: en
+pgterms:marc904: https://archive.org/details/satireinvictoria01russ/page/n7/mode/2up
+pgterms:marc905: 20200512214039russell
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Charlene Taylor, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :The MacMillan Company,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century -- History and criticism'
+- !lcsh 'Thesis (Ph. D.)'
+- !lcsh 'Satire, English -- History and criticism'
+- GITenberg
+title: Satire in the Victorian novel
+url: http://www.gutenberg.org/ebooks/67581
