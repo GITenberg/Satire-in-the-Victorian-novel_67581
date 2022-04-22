@@ -1,5 +1,8 @@
 _repo: Satire-in-the-Victorian-novel_67581
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67581-h/images/cover.jpg
 creator:
   author:
     agent_name: Russell, Frances Theresa
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54343
     wikipedia: https://en.wikipedia.org/wiki/Frances_Theresa_Peet_Russell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67581#Satire-in-the-Victorian-novel
 gutenberg_issued: '2022-03-07'
 identifiers:
   gutenberg: '67581'
